@@ -1,0 +1,16 @@
+.photo-img {
+    width: 100vw;
+}
+
+.card {
+    border: none;
+}
+
+.card:hover {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    transition: 0.35s;
+}
+
+.red::first-letter {
+    color: red;
+}
